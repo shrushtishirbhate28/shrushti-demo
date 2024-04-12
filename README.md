@@ -1,3 +1,3 @@
 # shrushti-demo
-This is first Git Repo
+This is first Git Repository. 
 Author - Shrushti Shirbhate
